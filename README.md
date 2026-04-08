@@ -1,6 +1,6 @@
-# 🛡️ AI-Based Intrusion Detection System
+#  AI-Based Intrusion Detection System
 
-## 📌 Overview
+## Overview
 
 This project implements a machine learning-based intrusion detection
 system to classify network traffic as either **normal** or **attack**.
@@ -13,7 +13,7 @@ improve system security.
 
 ------------------------------------------------------------------------
 
-## 🎯 Objectives
+##  Objectives
 
 -   Build a binary classification model for intrusion detection\
 -   Apply data preprocessing techniques to mixed-type features\
@@ -22,7 +22,7 @@ improve system security.
 
 ------------------------------------------------------------------------
 
-## 📂 Dataset
+##  Dataset
 
 -   **Dataset**: KDD Cup 99 (SA subset via scikit-learn)\
 -   **Type**: Network traffic data\
@@ -42,7 +42,7 @@ improve system security.
 
 ------------------------------------------------------------------------
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 
@@ -64,7 +64,7 @@ training
 
 ------------------------------------------------------------------------
 
-## 📊 Results
+##  Results
 
   Metric      Value
   ----------- --------
@@ -75,7 +75,7 @@ training
 
 ------------------------------------------------------------------------
 
-## 🧠 Key Insights
+##  Key Insights
 
 -   Network traffic patterns such as **connection counts** and **byte
     transfer features** are strong indicators of malicious activity\
@@ -86,7 +86,7 @@ training
 
 ------------------------------------------------------------------------
 
-## ⚠️ Limitations
+##  Limitations
 
 -   The KDD Cup 99 dataset is **outdated** and contains redundant
     patterns\
@@ -95,7 +95,7 @@ training
 
 ------------------------------------------------------------------------
 
-## 🚀 Future Work
+##  Future Work
 
 -   Apply the model to modern datasets such as **UNSW-NB15**\
 -   Extend to **multi-class classification** of attack types\
@@ -103,21 +103,15 @@ training
 
 ------------------------------------------------------------------------
 
-## 📁 Project Structure
+##  Project Structure
 
 intrusion-detection-ml/ │ ├── intrusion_detection.ipynb ├── README.md
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+##  Author
 
-Your Name
+Muhammad Hamza
 
 ------------------------------------------------------------------------
 
-## 📌 CV Highlight
-
-Developed a machine learning-based intrusion detection system using
-Random Forest on the KDD Cup 99 dataset, achieving 99.96% accuracy.
-Implemented preprocessing, feature engineering, and performance
-evaluation including confusion matrix and feature importance analysis.
