@@ -32,7 +32,7 @@ improve system security.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 -   Python\
 -   Scikit-learn\
